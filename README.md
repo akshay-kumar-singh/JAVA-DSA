@@ -1,4 +1,4 @@
-ALPHAA COURSE - DATA STRUCTURE AND ALGORITHMS WITH JAVA 
+ALPHA COURSE - DATA STRUCTURE AND ALGORITHMS WITH JAVA 
 
 Welcome to the repository for the Alpha course on Data Structure and Algorithms with Java , taught by Shradhha mam at Apna college. This repository contains all the assignment, codes, and theorey notes related to the placement.
 
